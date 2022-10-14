@@ -33,7 +33,7 @@ e uma opção para deletar a conta do usuário com uma prévia confirmação da 
 ✅ Login/Cadastro<br>
 ✅ Navbar<br>
 ✅ Modal<br>
-✅ Upload de imagems<br>
+✅ Upload de imagens<br>
 ✅ Paginação<br>
 ### etc...
 ---
